@@ -1,0 +1,27 @@
+{
+  "name": "nodeavan",
+  "version": "1.0.0",
+  "description": "NodeAvancado",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "davedissian"
+  },
+  "author": "davedissian",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "commonjs": "0.0.1",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "i": "^0.3.6",
+    "nodemon": "^2.0.7",
+    "npm": "^6.14.11"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
